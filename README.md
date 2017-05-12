@@ -27,4 +27,6 @@ Usage
 
 Once the extension is installed, simply use it in your code by  :
 
-```<?php \egorov\uikit3\UikitAsset::register($this); ?>```
+```
+<?php \egorov\uikit3\UikitAsset::register($this); ?>
+```
