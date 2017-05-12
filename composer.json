@@ -1,0 +1,21 @@
+{
+    "name": "egorov/yii2-uikit",
+    "description": "UI Kit 3 Extension for Yii2",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension", 'uikit3'],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Egorov Dmitriy",
+            "email": "desure85@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "egorov\\uikit3\\": ""
+        }
+    }
+}
