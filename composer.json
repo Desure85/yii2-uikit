@@ -2,7 +2,7 @@
     "name": "egorov/yii2-uikit",
     "description": "UI Kit 3 Extension for Yii2",
     "type": "yii2-extension",
-    "keywords": ["yii2","extension", 'uikit3'],
+    "keywords": ["yii2","extension", "uikit 3"],
     "license": "MIT",
     "authors": [
         {
