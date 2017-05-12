@@ -4,7 +4,6 @@ namespace egorov\uikit3;
 
 use yii\web\AssetBundle;
 
-
 class UikitAsset extends AssetBundle
 {
     public $sourcePath = '@vendor/egorov/uikit/dist';
