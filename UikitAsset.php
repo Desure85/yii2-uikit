@@ -9,16 +9,16 @@ class UikitAsset extends AssetBundle
     public $sourcePath = '@vendor/egorov/yii2-uikit/dist';
 
     public $css = [
-        'css/uikit.min.css',
+        'css/uikit.min.css'
     ];
 
     public $js = [
         'js/uikit.min.js',
-        'js/uikit-icons.min.js',
+        'js/uikit-icons.min.js'
     ];
 
     public $depends = [
-        'yii\web\YiiAsset',
+        'yii\web\YiiAsset'
     ];
 
 }
