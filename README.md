@@ -1,7 +1,7 @@
-UI Kit 3.0.0 beta 31
+UI Kit 3.0.0 beta 34
 ==================
 UI Kit 3 Extension for Yii2  [UI kit Official site](https://getuikit.com/)
-(3.0.0 beta 31)
+(3.0.0 beta 34)
 Installation
 ------------
 
