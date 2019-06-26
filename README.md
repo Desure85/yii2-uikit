@@ -1,7 +1,7 @@
-UI Kit 3.1.5
+UI Kit 3.1.6
 ==================
 UI Kit 3 Extension for Yii2  [UI kit Official site](https://getuikit.com/)
-(3.1.5)
+(3.1.6)
 Installation
 ------------
 
